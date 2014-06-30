@@ -1,9 +1,10 @@
-/* 
+''' 
 A basic high-five call and response class, where users can create extended 
 child classes with their own personal responses to high-fives sent their way. 
 
 Project inspired by a discussion with @danasaur 
-*/
+'''
+
 
 from random import randint
 
